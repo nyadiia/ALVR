@@ -55,7 +55,7 @@ You can skip the ALVR Dashboard and open ALVR automatically together with SteamV
 
 ### Connect headset and PC via a USB Cable
 
-Check out the guide [here](https://github.com/alvr-org/ALVR/wiki/Using-ALVR-through-a-USB-connection).
+Check out the guide [here](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection).
 
 ## Linux
 
